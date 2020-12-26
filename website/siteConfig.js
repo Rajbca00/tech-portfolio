@@ -14,7 +14,7 @@ const users = [];
 const siteConfig = {
     title: 'Rajesh Sambasivam', // Title for your website.
     tagline: 'Continuously improving, aspiring technologist.',
-    profilePhoto: 'https://lh3.googleusercontent.com/ogw/ADGmqu-pMjs9IGEhvPWeSc4e0N_my4PhTO8YGqJNoXpLng=s83-c-mo',
+    profilePhoto: 'https://lh3.googleusercontent.com/7SYJDoMSZJTaOJLyPEIQACddlbyjR8XGXndzFNqoj1vFEzXzVygyvbdpeBpwXQrXOPAz419JMMpEYYmPcGdPIAEns6eeGNYF7K9Ewh5FpcVS0ljVX8gvc7VBPcDru3Xxoh75PZqvzV-KZoAk--rWjVceupUCYguWBBF3WXdJhxs6kWCSYDk-1hLoezOOVW9qK7cXgJD7xwrULptp7v9XmljJK1Rg31QTm4ZJVd7wIfEImYRM2MTkJidoDBJb3XFVOnyCjLOjgHndEC1RIs98V3oLhHSC53jpbI1SCiGUpuDjMnR-LM9v4Y_94EQhuC3n6B74Zmlc7tEiJgOb1VSqEyW2GVKJDKz9PBiNbMYZXgE23I4waq2PF1_JSDMDqD4oIZ3aQRo6BRkRitPxnEAdfryJQClUL0CVPV377p7_gug3NkHrTRYfi5ox8OFT28M5N9gL8Vx07qLZY_NuNWpqDOwzxLtRCcDWHsCHKznES4-zCSKUpNaXi_Bg6VSSLXI13VpGU-yXylfXK4lBgUCwalV9qOpcRyTbgVO3d2DUgPiPINzgUqoa3HzMlZ2TM11F8UyryMjvsWhvTSXqPcGK4ssCWKIWI-w3eEmPXwuUw5RHHmpRZD7Ft5fWq_cCKhC5eVL6F_5Pc7sslMPakZj1pimL0CspSd7Nf5ZgJ3VuujJxl8I3Nf6biDoqGJwUvQ=w876-h657-no?authuser=0',
     url: 'https://rajbca00.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
